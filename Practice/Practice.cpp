@@ -8,7 +8,6 @@ int main()
     std::cout << "Hello World!\n";
 }
 
-// Debug program: F5 or Debug > Start Debugging menu
 
 // Tips for Getting Started: 
 //   1. Use the Solution Explorer window to add/manage files
